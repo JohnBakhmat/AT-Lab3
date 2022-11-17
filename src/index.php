@@ -15,7 +15,7 @@
                     <option value="*">*</option>
                     <option value="/">/</option>
                 </select>
-                <input type="number" name="b" placeholder="0" value="0" step="any">
+                 <input type="number" name="b" placeholder="0" value="0" step="any">
                 <input type="submit" value="Calculate">
             </form>
 
